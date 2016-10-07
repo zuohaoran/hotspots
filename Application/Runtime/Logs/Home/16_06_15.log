@@ -1,0 +1,444 @@
+[ 2016-06-15T13:03:45+08:00 ] ::1 /hotspots/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.188011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.062003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.062003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.069004s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.069004s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.368021s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.368021s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.037002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.037002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-06-15T13:04:04+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2016-06-15T13:04:10+08:00 ] ::1 /hotspots/index.php/Home/Index/company.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-06-15T13:04:15+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-06-15T13:05:33+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2016-06-15T13:05:50+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-06-15T13:16:52+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.008000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009000s ]
+
+[ 2016-06-15T13:16:57+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2016-06-15T13:18:19+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-06-15T13:18:26+08:00 ] ::1 /hotspots/index.php/Home/Index/company.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-06-15T13:18:33+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008001s ]
+
+[ 2016-06-15T13:22:00+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2016-06-15T13:22:18+08:00 ] ::1 /hotspots/index.php/Home/Index/company.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003001s ]
+
+[ 2016-06-15T16:07:14+08:00 ] ::1 /hotspots/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002500s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057501s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057501s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.035001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.035001s ]
+
+[ 2016-06-15T16:21:38+08:00 ] ::1 /hotspots/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006000s ]
+
+[ 2016-06-15T17:31:53+08:00 ] ::1 /hotspots/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.016001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.098005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.099005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.119007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.121007s ]
+
+[ 2016-06-15T17:32:00+08:00 ] ::1 /hotspots/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.035002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-06-15T18:00:40+08:00 ] ::1 /hotspots/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-06-15T18:00:48+08:00 ] ::1 /hotspots/index.php/Home/Index/showChinaMapHotspots
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 26 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 26 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 27 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 29 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 30 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 30 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 31 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 32 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 32 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 33 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 34 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 36 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 37 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 38 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 39 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 39 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 40 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 43 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 46 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 46 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 47 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 49 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 49 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 50 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 51 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 52 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 53 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 53 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 54 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 58 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 58 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 59 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 60 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 60 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 61 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 61 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 62 行.
+NOTIC: [8] Use of undefined constant name - assumed 'name' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 63 行.
+NOTIC: [8] Use of undefined constant value - assumed 'value' F:\wamp\www\hotspots\Application\Home\Controller\IndexController.class.php 第 63 行.
+

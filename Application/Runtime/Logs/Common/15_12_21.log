@@ -1,0 +1,42 @@
+[ 2015-12-21T22:52:42+08:00 ] ::1 /thinkphp/Index/hello.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014551s ]
+ERR: 无法加载模块:Index
+
+[ 2015-12-21T22:53:01+08:00 ] ::1 /thinkphp/Index/hello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+ERR: 无法加载模块:Index
+
+[ 2015-12-21T22:55:42+08:00 ] ::1 /thinkphp/Index/hello
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:Index
+
+[ 2015-12-21T22:56:52+08:00 ] ::1 /thinkphp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014037s ]
+ERR: 无法加载模块:Index
+
+[ 2015-12-21T22:57:23+08:00 ] ::1 /thinkphp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+ERR: 无法加载模块:Index
+
+[ 2015-12-21T22:57:33+08:00 ] ::1 /thinkphp/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:Index
+
+[ 2015-12-21T22:57:37+08:00 ] ::1 /thinkphp/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+ERR: 无法加载模块:Index
+

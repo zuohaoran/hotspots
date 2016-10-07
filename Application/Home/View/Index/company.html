@@ -1,0 +1,113 @@
+<extend name="base" />
+<block name="maincontent_block">
+    <div id="company" style="height: 650px">
+
+    </div>
+
+    <script>
+        var myChart = echarts.init(document.getElementById("company"));
+        var d = {$data};
+        var data=d['data'];
+        var date=d['date'];
+        option = {
+            tooltip: {
+                trigger: 'axis'
+            },
+            title: {
+                left: 'center',
+                text: '各公司流量显示',
+            },
+            legend: {
+                top: 'bottom',
+                data:['意向']
+            },
+            toolbox: {
+                show: true,
+                feature: {
+                    dataView: {show: true, readOnly: false},
+                    magicType: {show: true, type: ['line', 'bar', 'stack', 'tiled']},
+                    restore: {show: true},
+                    saveAsImage: {show: true}
+                }
+            },
+            xAxis: {
+                type: 'category',
+                boundaryGap: false,
+                data: date
+            },
+            yAxis: {
+                type: 'value',
+                boundaryGap: [0, '100%'],
+            },
+            dataZoom: [{
+                type: 'inside',
+                start: 0,
+                end: 10
+            }, {
+                start: 0,
+                end: 10
+            }],
+            series: [
+                {
+                    name:'模拟数据',
+                    type:'line',
+                    smooth:true,
+                    symbol: 'none',
+                    sampling: 'average',
+                    itemStyle: {
+                        normal: {
+                            color: 'rgb(255, 70, 131)'
+                        }
+                    },
+                    areaStyle: {
+                        normal: {
+                            color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [{
+                                offset: 0,
+                                color: 'rgb(255, 158, 68)'
+                            }, {
+                                offset: 1,
+                                color: 'rgb(255, 70, 131)'
+                            }])
+                        }
+                    },
+                    data: data,
+                }
+            ]
+        };
+
+//        function getChartData()
+//        {
+//            var options = myChart.getOption();
+//            //通过Ajax获取数据
+//            $.ajax({
+//                type : "post",
+//                async : false, //同步执行
+//                url : "__URL__/{$ajaxdataserver}",
+//                data : {},
+//                dataType : "json", //返回数据形式为json
+//                success : function(result) {
+//                    if (result) {
+//
+//                        var tempdata = JSON.parse(result)
+//
+//                        options.series[0].data = tempdata['data'];
+//                        alert(tempdata['date'])
+//                        options.xAxis.data = tempdata['date'];
+//
+//                        myChart.hideLoading();
+//                        myChart.setOption(options);
+//                    }
+//                },
+//                error : function(errorMsg) {
+//                    alert("图表请求数据失败!");
+//                    myChart.hideLoading();
+//                }
+//            });
+//
+//        }
+
+        myChart.setOption(option, true);
+//        getChartData()
+
+    </script>
+</block>

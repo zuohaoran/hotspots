@@ -1,0 +1,576 @@
+[ 2015-12-26T00:00:42+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002585s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:12:24+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000436s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003863s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:13:25+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000396s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003211s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:15:14+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000343s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002796s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:17:43+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000222s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002104s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:18:22+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000394s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003394s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:19:03+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000221s ]
+INFO: [ app_init ] --END-- [ RunTime:0.043167s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:19:17+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000437s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003186s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:36:15+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000226s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002396s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:36:40+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000508s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003833s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:37:01+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000407s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004505s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:44:03+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000385s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003385s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:44:37+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000232s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002054s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:46:08+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000409s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003435s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:46:27+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000233s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002356s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:47:03+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000540s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002583s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:48:01+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000445s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005240s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:49:34+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000229s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002160s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:52:35+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000389s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003927s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:52:58+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000479s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004175s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:53:59+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000233s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002289s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:58:00+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000430s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004633s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:58:30+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000420s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003794s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:59:02+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000233s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003203s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T00:59:38+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000227s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002375s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T01:03:18+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000231s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002527s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T01:03:43+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000308s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002740s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T01:04:15+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000417s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003013s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T01:04:30+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002091s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T01:06:25+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000234s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003965s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T01:07:48+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000229s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002064s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T01:55:52+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000427s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005216s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T01:56:27+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000271s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003084s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:00:46+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000402s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003763s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:06:23+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000256s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002890s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:07:14+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000218s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002370s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:07:36+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000211s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002910s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:07:54+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000383s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003332s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:08:41+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000359s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003298s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:09:05+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000310s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002631s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:09:30+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000436s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003161s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:10:43+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000665s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006079s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:11:04+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000380s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003381s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:11:43+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000241s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002169s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:13:19+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000335s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003159s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:15:49+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000332s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003563s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:16:11+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000334s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002945s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:19:20+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000203s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001899s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:19:44+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000206s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002263s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:21:27+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000372s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004720s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:21:56+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000372s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003338s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:22:27+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000212s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002582s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:30:52+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000208s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001836s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:33:17+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000301s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003389s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:34:07+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000374s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003324s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:34:50+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000635s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004064s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:35:20+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000385s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003584s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:35:58+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000606s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004578s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:38:30+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000412s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004898s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:45:24+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000365s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002599s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T02:47:07+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000335s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003926s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T03:05:45+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000409s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003325s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T03:06:31+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000214s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001894s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T03:08:07+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000383s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003197s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T15:00:02+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000210s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002438s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T17:53:01+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000235s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002447s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T17:54:33+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000973s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003968s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T18:03:22+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000211s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002131s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T18:11:16+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000204s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001818s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T18:12:25+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000240s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002414s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T18:14:13+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000377s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003706s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T18:17:30+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000359s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003258s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T18:19:38+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000213s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002275s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T18:59:06+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000211s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001916s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T18:59:57+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000215s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002118s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:07:59+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000403s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002907s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:09:30+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000267s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002044s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:09:59+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000261s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002845s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:12:07+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000334s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003574s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:12:18+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002766s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:13:15+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000213s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003256s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:16:43+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002398s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:17:11+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000324s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002875s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:17:14+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004205s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:18:02+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000392s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002847s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:18:05+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000339s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003073s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T19:18:07+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000390s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003024s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:28:07+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000282s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002547s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:29:38+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000384s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002488s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:33:02+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000275s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002148s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:33:21+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000227s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002111s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:33:26+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000234s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002153s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:33:41+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000247s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002770s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:34:17+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000237s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002867s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:34:23+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000430s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003074s ]
+ERR: 无法加载模块:Public
+
+[ 2015-12-26T23:46:37+08:00 ] ::1 /thinkphp/Public/js/jquery-1.10.2.min.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002319s ]
+ERR: 无法加载模块:Public
+
